@@ -17,8 +17,6 @@ In this project you can see the Menu, filter your favorite food and create a new
 - Back-End - Express
 - Front-End - React
 - Database - MySQL
-- Authentication - JWT
-- Session - Cookies
 
 ## Code Editor:
 
